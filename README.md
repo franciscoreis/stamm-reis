@@ -1,2 +1,2 @@
 # stamm-reis
-Augmented Reality Codes 5x5 with 8192 friendly to humans
+Augmented Reality 8192 Codes 5x5 friendly to humans
